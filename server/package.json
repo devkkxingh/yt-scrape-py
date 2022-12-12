@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@yimura/scraper": "^1.2.4",
+    "js-markov": "^3.0.3",
+    "natural": "^5.2.4",
+    "puppeteer": "^19.4.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1",
+    "scrape-youtube": "^2.3.2",
+    "selenium-webdriver": "^4.7.0",
+    "sentence-case": "^3.0.4",
+    "youtube-extractor": "^1.0.2",
+    "youtube-scrapper": "^1.4.0"
+  }
+}
